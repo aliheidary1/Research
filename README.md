@@ -6,3 +6,4 @@
 
 [Subnet Mask.pdf](https://github.com/aliheidary1/-/files/8702516/Subnet.Mask.pdf)
 
+[اجزای اصلی کامپیوتر.pdf](https://github.com/aliheidary1/-/files/8702518/default.pdf)
